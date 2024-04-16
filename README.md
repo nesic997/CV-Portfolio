@@ -3,6 +3,7 @@ Repository containing portfolio of data science projects completed by me for aca
 # Contest
 ### #Machine learning
 -Rossman Sales Prediction
+-Wine quality prediction
 
 ### #Data engineering
 -Brasil Olist sales
