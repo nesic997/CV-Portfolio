@@ -1,10 +1,12 @@
 # CV-Portfolio
-Repository containing portfolio of data science projects completed by me for academic, self learning, and hobby purposes. Presented in the form of Jupyter notebooks.
+Site Reliability Engineer in incident management, system reliability, and cloud technologies. Skilled in automating processes, optimizing performance, and troubleshooting complex issues.Focused on improving efficiency, reducing costs, and enhancing system performance througheffective solutions.
 # Contest
-### #Machine learning
--Rossman Sales Prediction
 
--Wine quality prediction
+### # SRE / DevOps
 
-### #Data engineering
+
+
+### #Data 
 -Brasil Olist sales
+-Rossman Sales Prediction
+-Wine quality prediction
